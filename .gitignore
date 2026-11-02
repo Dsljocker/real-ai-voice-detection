@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.env
+# 如果只想传代码/模型/PPT，不上传音频数据集，把下面两行的 # 去掉
+# train_data/
+# test_data/
